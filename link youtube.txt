@@ -1,0 +1,10 @@
+Assalamualaikum wr wb.
+Mas @Nur Rizky Romadhon untuk materi terakit transfer file (pengiriman data berupa file)
+
+Bisa minta tolong dicoba program dari tutorial berikut : 
+
+https://www.youtube.com/watch?v=qFVoMo6OMsQ&ab_channel=NeuralNine
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5
+https://pythonprogramming.net/sockets-tutorial-python-3/
+
+Sy minta hasilnya mas, apakah tutorial tsb bisa diimplementasikan apa tidak
